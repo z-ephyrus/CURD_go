@@ -54,6 +54,26 @@ docker run --name pg-test \
   -e POSTGRES_DB=testdb \
   -p 5432:5432 -d postgres
 ```
-%. Run Server
+5. Run Server
+
+🧠 Learnings
+
+How to use Context with timeouts in database queries
+
+How to structure Go projects with internal/ packages
+
+How Bun ORM maps models to SQL queries
+
+How Echo simplifies route handling
+
+🚀 Future Improvements
+
+Add JWT authentication
+
+Docker Compose for full stack (Go + Postgres)
+
+CI/CD pipeline
+
+Unit tests with testcontainers-go
 
 
